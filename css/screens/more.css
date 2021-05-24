@@ -40,3 +40,6 @@
 .more-suggestions__icon-text:nth-child(2) {
   margin-bottom: 10px;
 }
+.icon-row__icon:nth-child(2) {
+  text-align: center;
+}
