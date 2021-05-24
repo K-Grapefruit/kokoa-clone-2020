@@ -44,3 +44,36 @@ body {
   left: 53px;
   border-radius: 3px;
 }
+
+.screen-header__icons__find1 {
+  width: 5px;
+  height: 5px;
+  border: tomato;
+  background-color: tomato;
+  position: absolute;
+  bottom: 23px;
+  left: 92px;
+  border-radius: 3px;
+}
+
+.screen-header__icons__find-fr {
+  width: 5px;
+  height: 5px;
+  border: tomato;
+  background-color: tomato;
+  position: absolute;
+  bottom: 23px;
+  left: 85px;
+  border-radius: 3px;
+}
+
+.screen-header__icons__find-ch {
+  width: 5px;
+  height: 5px;
+  border: tomato;
+  background-color: tomato;
+  position: absolute;
+  bottom: 23px;
+  left: 128px;
+  border-radius: 3px;
+}

@@ -1,5 +1,5 @@
 .settings__setting {
-  padding: 20px 0;
+  padding: 28px 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   font-size: 20px;
   display: flex;
@@ -10,6 +10,36 @@
   opacity: 0.8;
   margin-right: 20px;
 }
+.setting__setting-column {
+  display: flex;
+}
 .setting__setting-column:last-child {
   opacity: 0.5;
+}
+.settings__setting:nth-child(3) {
+  border: none;
+}
+.settings__setting_ab {
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  width: 100%;
+  left: 0;
+  margin-top: 15px;
+}
+.settings__setting:nth-child(5) {
+  margin-top: 35px;
+}
+.setting__setting-column-noti {
+  width: 20px;
+  height: 20px;
+  background-color: tomato;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+}
+.setting__setting-column-noti span {
+  font-size: 11px;
+  color: white;
 }
