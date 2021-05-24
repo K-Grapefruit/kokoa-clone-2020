@@ -17,6 +17,6 @@
 .icon-row__icon span {
   margin-top: 18px;
 }
-.icon-row__icon2 {
+.icon-row__icon:nth-child(2) {
   text-align: center;
 }
