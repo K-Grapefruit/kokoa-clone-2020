@@ -24,3 +24,8 @@
 .status-bar__column .fa-battery-full {
   margin: 0px 5px;
 }
+.status-bar1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 7px 7px;
+}
